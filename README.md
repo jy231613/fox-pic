@@ -10,10 +10,13 @@ A pic create api
   
   除了FoxPic类之外,还提供了一个PictureUtil工具类,这个类中的方法比较多面,匹配适用多种场景,返回值不再是单一的生成图片路径,而是有流或者其他类型的存在;
   
+  jar包下载:http://www.jiahengfei.cn/jar/fox-pic/fox-pic-api-1.0.1.jar
+  源码下载:http://www.jiahengfei.cn/jar/fox-pic/src.rar
+  
   联系我:
-    tel:17515250730
-    QQ:2757525207
-    Wechat:jy271613
+    tel:17515250730 - 
+    QQ:2757525207 - 
+    Wechat:jy271613 - 
     欢迎大佬们给我提意见
   
   
